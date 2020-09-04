@@ -10,7 +10,13 @@ Visual Studio Code and Git have to both be installed on your device before you f
 You can watch [this tutorial]() on how to download and install both programs.
 
 # Instructions:
-1. **Clone this assignment**.<br>
-Copy the link<br>
+1. **Cloning assignment**.<br>
+Copy the link.<br>
 ![alt text](https://github.com/mrmalaitai/github_introduction/blob/master/images/01.PNG "Screenshot of cloning")<br>
+Open Visual Studio Code and press **Ctrl + Shift + P**, type **git clone**, and then hit **Enter**.<br>
+![alt text](https://github.com/mrmalaitai/github_introduction/blob/master/images/02.PNG "Screenshot of git clone on VS Code")<br>
+Paste the link **(Ctrl+V)**.
 
+:exclamation: You have just created a **local repository** from your **remote repository**.
+
+2. **Making changes inside the repository**
