@@ -29,4 +29,20 @@ Type your *name* and *date* inside the texting.txt file.<br>
 Once changes have been made, you **stage** them to prepare them to **commit** to your remote repository.
 To stage the changes, go to **Source Control** on the left.<br>
 ![alt text](https://github.com/mrmalaitai/github_introduction/blob/master/images/04.PNG "Screenshot of source control")<br>
-Hover over **Changes** and click the "**+**" icon to **Stage All Changes**
+Hover over **Changes** and click the "**+**" icon to **Stage All Changes**.<br>
+
+**4. Commit to remote repository.**<br>
+Next you will need to add a message explaning the changes.<br>
+*e.g. Added testing.txt file*<br>
+![alt text](https://github.com/mrmalaitai/github_introduction/blob/master/images/05.PNG "Screenshot of message for commit")<br>
+Press **Enter**.<br>
+:exclamation: Everytime you make significant changes, **always** stage the changes and commit.<br>
+
+**5. Push your local repository to your remote repository.**
+After you have made your changes and commited them, you can now **push** your local repository to your remote repository.<br>
+To push your repository, press **Ctrl + Shift + P**, type **git push**, and then hit **Enter**.<br>
+The first time you push on your device, you will be asked to login to your GitHub account.<br>
+![alt text](https://github.com/mrmalaitai/github_introduction/blob/master/images/06.PNG "Screenshot of GitHub login")<br>
+
+**6. Check GitHub**<br>
+If there are no problems, everything should be pushed. Check your remote repository on GitHub and see if all the files are there.
