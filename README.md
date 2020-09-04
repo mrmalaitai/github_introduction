@@ -16,7 +16,9 @@ Copy the link.<br>
 Open Visual Studio Code and press **Ctrl + Shift + P**, type **git clone**, and then hit **Enter**.<br>
 ![alt text](https://github.com/mrmalaitai/github_introduction/blob/master/images/02.PNG "Screenshot of git clone on VS Code")<br>
 Paste the link **(Ctrl+V)**.<br>
-![alt text](https://github.com/mrmalaitai/github_introduction/blob/master/images/03.PNG "Screenshot of pasting link")
+![alt text](https://github.com/mrmalaitai/github_introduction/blob/master/images/03.PNG "Screenshot of pasting link")<br>
+The first time you use Git on your device, you will be asked to login to your GitHub account.<br>
+![alt text](https://github.com/mrmalaitai/github_introduction/blob/master/images/06.PNG "Screenshot of GitHub login")<br>
 You will be asked which folder to clone your repository to. Choose a folder where you will be able to work from.<br>
 :exclamation: You have just created a **local repository** from your **remote repository**.
 
@@ -41,8 +43,7 @@ Press **Enter**.<br>
 **5. Push your local repository to your remote repository.**
 After you have made your changes and commited them, you can now **push** your local repository to your remote repository.<br>
 To push your repository, press **Ctrl + Shift + P**, type **git push**, and then hit **Enter**.<br>
-The first time you push on your device, you will be asked to login to your GitHub account.<br>
-![alt text](https://github.com/mrmalaitai/github_introduction/blob/master/images/06.PNG "Screenshot of GitHub login")<br>
+
 
 **6. Check GitHub**<br>
 If there are no problems, everything should be pushed. Check your remote repository on GitHub and see if all the files are there.
