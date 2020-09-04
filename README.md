@@ -27,5 +27,6 @@ Type your *name* and *date* inside the texting.txt file.<br>
 
 **3. Stage changes.**<br>
 Once changes have been made, you **stage** them to prepare them to **commit** to your remote repository.
-To stage the changes, go to **Source Control** on the left.
-![alt text](https://github.com/mrmalaitai/github_introduction/blob/master/images/04.PNG "Screenshot of source control")
+To stage the changes, go to **Source Control** on the left.<br>
+![alt text](https://github.com/mrmalaitai/github_introduction/blob/master/images/04.PNG "Screenshot of source control")<br>
+Hover over **Changes** and click the **+** icon to **Stage All Changes**
