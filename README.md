@@ -7,7 +7,7 @@ You will be using the following programs for Computer Studies:<br>
 - [Git](https://git-scm.com/)
 
 Visual Studio Code and Git have to both be installed on your device before you follow the **instructions**.
-You can watch [this tutorial]() on how to download and install both programs.
+You can watch [this tutorial](https://www.youtube.com/watch?v=bm6Ijnb9ZWA) on how to download and install both programs.
 
 # Instructions:
 **1. Cloning assignment**.<br>
